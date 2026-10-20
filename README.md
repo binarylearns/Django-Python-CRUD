@@ -1,6 +1,32 @@
-<h1>Hey this is the first proejct I made in Django and Bootstrap and Mysql</h1>
+# Django CRUD Application
 
-This is the homepage of this CRUD Application..
+A simple web application built with **Django, Bootstrap, and MySQL** to explore the fundamentals of Django web development and database integration.
+
+This project demonstrates a basic CRUD (Create, Read, Update, Delete) workflow, allowing users to manage application data through a web interface styled with Bootstrap and backed by a MySQL database.
+
+## 🛠️ Tech Stack
+
+- **Backend:** Python, Django
+- **Frontend:** HTML, Bootstrap
+- **Database:** MySQL
+
+## 🎯 Project Purpose
+
+This was my first project built with Django. It served as a hands-on introduction to the Django framework, CRUD operations, database connectivity, and building dynamic web pages.
+
+Although the project follows a provided implementation, it represents an important step in my journey toward understanding backend development and building web applications with Django.
+
+## 📚 What I Learned
+
+- Understanding Django's project structure and request-response workflow
+- Working with database records through CRUD operations
+- Connecting a Django application to MySQL
+- Rendering dynamic content using Django templates
+- Building a user interface with Bootstrap
+
+## 📌 Project Status
+
+An introductory learning project. It serves as a foundation for exploring more independent Django development and building more advanced applications.
 
 <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/ccebbae9-72f7-4339-a33f-8c95a43a4bfc" />
 
